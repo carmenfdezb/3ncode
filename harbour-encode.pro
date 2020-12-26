@@ -39,7 +39,8 @@ CONFIG += sailfishapp_i18n
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
 TRANSLATIONS += translations/harbour-encode-de.ts \
-                translations/harbour-encode-sv.ts
+                translations/harbour-encode-sv.ts \
+                translations/harbour-encode-es.ts
 
 DISTFILES += \
     qml/pages/AboutPage.qml \
